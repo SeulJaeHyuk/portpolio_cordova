@@ -62,4 +62,4 @@ packagingOptions {<br>
 → 기기(스마트폰)에 실행 : cordova run android <br><br>
 
 ## 📱 레이아웃
-![레이아웃](https://github.com/SeulJaeHyuk/portpolio_cordova/blob/main/img/Screenshot_1669191375.png) 
+![레이아웃](https://github.com/SeulJaeHyuk/portpolio_cordova/blob/main/img/Screenshot_1669192041.png) 
