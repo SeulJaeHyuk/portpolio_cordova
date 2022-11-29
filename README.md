@@ -61,10 +61,9 @@ packagingOptions {<br>
 → 에뮬레이터에 실행 : cordova emulate android <br>
 → 기기(스마트폰)에 실행 : cordova run android <br><br>
 
-## 😊 참고자료
+# 👨‍💻 참고자료
 
-[참고자료 확인하기]
-(https://github.com/SeulJaeHyuk/portpolio_cordova/blob/main/%EC%BD%94%EB%A5%B4%EB%8F%84%EB%B0%94%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0_%EC%8B%A4%EC%8A%B5%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95.pdf) <br>
+[참고자료 확인하기](https://github.com/SeulJaeHyuk/portpolio_cordova/blob/main/%EC%BD%94%EB%A5%B4%EB%8F%84%EB%B0%94%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0_%EC%8B%A4%EC%8A%B5%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95.pdf) <br><br>
 
 ## 📱 레이아웃
 ![레이아웃](https://github.com/SeulJaeHyuk/portpolio_cordova/blob/main/img/Screenshot_1669192041.png) 
